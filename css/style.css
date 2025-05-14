@@ -1041,7 +1041,7 @@ input,textarea {
   position: relative;
   padding: 270px 0px 198px;
   text-align: center;
-  background: url(../images/background/banner.jpg);
+  background: url(../images/background/servic-details-banner.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2784,7 +2784,7 @@ input,textarea {
 }
 
 .service-details .content-column{
-  margin-top: 72px;
+  margin-top: 50px;
   padding: 30px 30px;
   border: 1px solid rgba(204, 204, 204, 0.16);
   background: #181818;
