@@ -2692,7 +2692,8 @@ input,textarea {
 .about{
   background: #181818;
 }
-.about-image{}
+.about-image{
+}
 .about-content{
   margin-top: 100px;
   padding-left: 50px;
